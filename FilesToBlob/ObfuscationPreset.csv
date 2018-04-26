@@ -1,0 +1,196 @@
+City-1,account,address1_city,Yes
+Country-1,account,address1_country,Yes
+County-1,account,address1_county,Yes
+Phone Number,account,address1_fax,Yes
+Address1-1,account,address1_line1,Yes
+Address2-1,account,address1_line2,Yes
+Address3-1,account,address1_line3,Yes
+Zip-1,account,address1_postalcode,Yes
+Full Name,account,address1_primarycontactname,Yes
+State-1,account,address1_stateorprovince,Yes
+Phone Number,account,address1_telephone1,Yes
+Phone Number,account,address1_telephone2,Yes
+Phone Number,account,address1_telephone3,Yes
+City-2,account,address2_city,Yes
+Country-2,account,address2_country,Yes
+County-2,account,address2_county,Yes
+Phone Number-2,account,address2_fax,Yes
+Address1-2,account,address2_line1,Yes
+Address2-2,account,address2_line2,Yes
+Address3-2,account,address2_line3,Yes
+Zip-2,account,address2_postalcode,Yes
+Full Name,account,address2_primarycontactname,Yes
+State-2,account,address2_stateorprovince,Yes
+Phone Number,account,address2_telephone1,Yes
+Phone Number,account,address2_telephone2,Yes
+Phone Number,account,address2_telephone3,Yes
+Email,account,emailaddress1,Yes
+Email,account,emailaddress2,Yes
+Email,account,emailaddress3,Yes
+Phone Number,account,fax,Yes
+Phone Number,account,telephone1,Yes
+Phone Number,account,telephone2,Yes
+Phone Number,account,telephone3,Yes
+City-1,customeraddress,city,Yes
+Phone Number,customeraddress,fax,Yes
+Address1-1,customeraddress,line1,Yes
+Address2-1,customeraddress,line2,Yes
+Address3-1,customeraddress,line3,Yes
+Zip-1,customeraddress,postalcode,Yes
+City-1,contact,address1_city,Yes
+Country-1,contact,address1_country,Yes
+County-1,contact,address1_county,Yes
+Phone Number,contact,address1_fax,Yes
+Address1-1,contact,address1_line1,Yes
+Address2-1,contact,address1_line2,Yes
+Address3-1,contact,address1_line3,Yes
+Zip-1,contact,address1_postalcode,Yes
+Full Name,contact,address1_primarycontactname,Yes
+City-2,contact,address2_city,Yes
+Country-2,contact,address2_country,Yes
+County-2,contact,address2_county,Yes
+Email,incident,emailaddress,Yes
+Phone Number,contact,address2_fax,Yes
+Address1-2,contact,address2_line1,Yes
+Address2-2,contact,address2_line2,Yes
+Address3-2,contact,address2_line3,Yes
+Zip-2,contact,address2_postalcode,Yes
+Full Name,contact,address2_primarycontactname,Yes
+State-2,contact,address2_stateorprovince,Yes
+Phone Number,contact,address2_telephone1,Yes
+Phone Number,contact,address2_telephone2,Yes
+Phone Number,contact,address2_telephone3,Yes
+City-3,contact,address3_city,Yes
+Country-3,contact,address3_country,Yes
+County-3,contact,address3_county,Yes
+Phone Number,contact,address3_fax,Yes
+Address1-3,contact,address3_line1,Yes
+Address2-3,contact,address3_line2,Yes
+Address3-3,contact,address3_line3,Yes
+Zip-3,contact,address3_postalcode,Yes
+Full Name,contact,address3_primarycontactname,Yes
+State-3,contact,address3_stateorprovince,Yes
+Phone Number,contact,address3_telephone1,Yes
+Phone Number,contact,address3_telephone2,Yes
+Phone Number,contact,address3_telephone3,Yes
+Birthdate,contact,anniversary,Yes
+Int,contact,annualincome,Yes
+Full Name,contact,assistantname,Yes
+Phone Number,contact,assistantphone,Yes
+Phone Number,contact,business2,Yes
+Phone Number,contact,callback,Yes
+Full Name,contact,childrennames,Yes
+Email,contact,emailaddress1,Yes
+Email,contact,emailaddress2,Yes
+Email,contact,emailaddress3,Yes
+Int,contact,employeeid,Yes
+Phone Number,contact,fax,Yes
+First Name,contact,firstname,Yes
+Phone Number,contact,callback,Yes
+Full Name,contact,fullname,Yes
+Phone Number,contact,home2,Yes
+Last Name,contact,lastname,Yes
+Full Name,contact,managername,Yes
+Phone Number,contact,managerphone,Yes
+Firstname,contact,middlename,Yes
+Phone Number,contact,mobilephone,Yes
+First Name,contact,nickname,Yes
+Salutation,contact,salutation,Yes
+Full Name,contact,spousename,Yes
+City-1,invoice,billto_city,Yes
+Country-1,invoice,billto_country,Yes
+Address1-1,invoice,billto_line1,Yes
+Address2-1,invoice,billto_line2,Yes
+Address3-1,invoice,billto_line3,Yes
+Zip-1,invoice,billto_postalcode,Yes
+State-1,invoice,billto_stateorprovince,Yes
+Phone Number,invoice,billto_telephone,Yes
+Email,invoice,emailaddress,Yes
+City-2,invoice,shipto_city,Yes
+Country-2,invoice,shipto_country,Yes
+Address1-2,invoice,shipto_line1,Yes
+Address2-2,invoice,shipto_line2,Yes
+Address3-2,invoice,shipto_line3,Yes
+Zip-2,invoice,shipto_postalcode,Yes
+State-2,invoice,shipto_stateorprovince,Yes
+Phone Number,invoice,shipto_telephone,Yes
+City-1,lead,address1_city,Yes
+Country-1,lead,address1_country,Yes
+County-1,lead,address1_county,Yes
+Phone Number,lead,address1_fax,Yes
+Address1-1,lead,address1_line1,Yes
+Address2-1,lead,address1_line2,Yes
+Address3-1,lead,address1_line3,Yes
+Zip-1,lead,address1_postalcode,Yes
+State-1,lead,address1_stateorprovince,Yes
+Phone Number,lead,address1_telephone1,Yes
+Phone Number,lead,address1_telephone2,Yes
+Phone Number,lead,address1_telephone3,Yes
+City-2,lead,address2_city,Yes
+Country-2,lead,address2_country,Yes
+County-2,lead,address2_county,Yes
+Phone Number,lead,address2_fax,Yes
+Address1-2,lead,address2_line1,Yes
+Address2-2,lead,address2_line2,Yes
+Address3-2,lead,address2_line3,Yes
+Zip-2,lead,address2_postalcode,Yes
+State-2,lead,address2_stateorprovince,Yes
+Phone Number,lead,address2_telephone1,Yes
+Phone Number,lead,address2_telephone2,Yes
+Phone Number,lead,address2_telephone3,Yes
+Email,lead,emailaddress1,Yes
+Email,lead,emailaddress2,Yes
+Email,lead,emailaddress3,Yes
+Phone Number,lead,fax,Yes
+First Name,lead,firstname,Yea
+Last Name,lead,lastname,Yes
+Salutation,lead,salutation,Yes
+Phone Number,lead,telephone1,Yes
+Phone Number,lead,telephone2,Yes
+Phone Number,lead,telephone3,Yes
+City-1,leadaddress,city,Yes
+Country-1,leadaddress,country,Yes
+County-1,leadaddress,county,Yes
+Phone Number,leadaddress,fax,Yes
+Address1-1,leadaddress,line1,Yes
+Address2-1,leadaddress,line2,Yes
+Address3-1,leadaddress,line3,Yes
+Zip-1,leadaddress,postalcode,Yes
+State-1,leadaddress,stateorprovince,Yes
+Phone Number,leadaddress,telephone1,Yes
+Phone Number,leadaddress,telephone2,Yes
+Phone Number,leadaddress,telephone3,Yes
+City-1,salesorder,billto_city,Yes
+Country-1,salesorder,billto_country,Yes
+Address1-1,salesorder,billto_line1,Yes
+Address2-1,salesorder,billto_line2,Yes
+Address3-1,salesorder,billto_line3,Yes
+Zip-1,salesorder,billto_postalcode,Yes
+State-1,salesorder,billto_stateorprovince,Yes
+Phone Number,salesorder,billto_telephone,Yes
+Email,salesorder,emailaddress,Yes
+City-2,salesorder,shipto_city,Yes
+Country-2,salesorder,shipto_country,Yes
+Address1-2,salesorder,shipto_line1,Yes
+Address2-2,salesorder,shipto_line2,Yes
+Address3-2,salesorder,shipto_line3,Yes
+Zip-2,salesorder,shipto_postalcode,Yes
+State-2,salesorder,shipto_stateorprovince,Yes
+Phone Number,salesorder,shipto_telephone,Yes
+City-1,quote,billto_city,Yes
+Country-1,quote,billto_country,Yes
+Address1-1,quote,billto_line1,Yes
+Address2-1,quote,billto_line2,Yes
+Address3-1,quote,billto_line3,Yes
+Zip-1,quote,billto_postalcode,Yes
+State-1,quote,billto_stateorprovince,Yes
+Phone Number,quote,billto_telephone,Yes
+Email,quote,emailaddress,Yes
+City-2,quote,shipto_city,Yes
+Country-2,quote,shipto_country,Yes
+Address1-2,quote,shipto_line1,Yes
+Address2-2,quote,shipto_line2,Yes
+Address3-2,quote,shipto_line3,Yes
+Zip-2,quote,shipto_postalcode,Yes
+State-2,quote,shipto_stateorprovince,Yes
+Phone Number,quote,shipto_telephone,Yes
