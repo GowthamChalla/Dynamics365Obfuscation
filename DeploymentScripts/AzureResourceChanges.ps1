@@ -38,28 +38,28 @@
 Author  : Gowtham Challa  
 Email   : v-chgowt@microsoft.com 
 #>
-[cmdletbinding()]
-param (
-      [Parameter(Position=0,mandatory=$true)]
-      [string]$UserResourceGroupName,
-      [Parameter(Position=1,mandatory=$true)]
-      [string]$UserStorageAccountName,
-      [Parameter(Position=2,mandatory=$true)]
-      [string]$UserKeyVaultName,
-      [Parameter(Position=3,mandatory=$true)]
-      [string]$UserFunctionAppName,
-      [Parameter(Position=4,mandatory=$true)]
-      [string]$UserPrincipalName,
-      [Parameter(Position=5,mandatory=$true)]
-      [string]$UserallowedOrigins    
-      )
+#[cmdletbinding()]
+#param (
+ #     [Parameter(Position=0,mandatory=$true)]
+  #    [string]$UserResourceGroupName,
+   #   [Parameter(Position=1,mandatory=$true)]
+    #  [string]$UserStorageAccountName,
+     # [Parameter(Position=2,mandatory=$true)]
+      #[string]$UserKeyVaultName,
+     # [Parameter(Position=3,mandatory=$true)]
+     # [string]$UserFunctionAppName,
+     # [Parameter(Position=4,mandatory=$true)]
+     # [string]$UserPrincipalName,
+     # [Parameter(Position=5,mandatory=$true)]
+     # [string]$UserallowedOrigins    
+     # )
 
-#$UserResourceGroupName = "ObfuscationTesting"
-#$UserStorageAccountName = "obfuscationstorageacc"
-#$UserKeyVaultName = "obskeyvault"
-#$UserFunctionAppName = "ObfuscationFunctionApp"
-#$UserPrincipalName = 'v-chgowt@microsoft.com'
-#$UserallowedOrigins = "https://ocepoc.api.crm.dynamics.com/"
+$UserResourceGroupName = "ObfuscationTesting"
+$UserStorageAccountName = "obfuscationstorageacc"
+$UserKeyVaultName = "obskeyvault"
+$UserFunctionAppName = "ObfuscationFunctionApp"
+$UserPrincipalName = 'v-chgowt@microsoft.com'
+$UserallowedOrigins = "https://ocepoc.api.crm.dynamics.com/"
 
 
 Import-Module AzureRM
