@@ -37,22 +37,22 @@ Author  : Gowtham Challa
 Email   : v-chgowt@microsoft.com 
 #>
 
-[cmdletbinding()]
-param (  
-     [Parameter(Position=0,mandatory=$true)]
-     [string] $UserAADAppName,
-     [Parameter(Position=1,mandatory=$true)]
-     [string]$AADWebAppID,
-     [Parameter(Position=2,mandatory=$true)]
-     [string]$AADNativeAppID,
-     [Parameter(Position=3,mandatory=$true)]
-     [string]$ReplyUrl
+#[cmdletbinding()]
+#param (  
+   #  [Parameter(Position=0,mandatory=$true)]
+   #  [string] $UserAADAppName,
+   #  [Parameter(Position=1,mandatory=$true)]
+    # [string]$AADWebAppID,
+   #  [Parameter(Position=2,mandatory=$true)]
+    # [string]$AADNativeAppID,
+   #  [Parameter(Position=3,mandatory=$true)]
+   #  [string]$ReplyUrl
       )
 
-#$UserAADAppName = "ObfuscationTesting"
-#$AADWebAppID = "5e66d153-0c9e-49ff-a368-ae757f3288d0"
-#$AADNativeAppID = "d1ebf7e3-6a8b-4431-bcd4-1bf1d214d7f8"
-#$ReplyUrl = "https://ocepoc.api.crm.dynamics.com/"
+$UserAADAppName = "ObfuscationTesting"
+$AADWebAppID = "5e66d153-0c9e-49ff-a368-ae757f3288d0"
+$AADNativeAppID = "d1ebf7e3-6a8b-4431-bcd4-1bf1d214d7f8"
+$ReplyUrl = "https://ocepoc.api.crm.dynamics.com/"
 
 # Install AzureRM Module if not available
 Install-Module -Name AzureRM
