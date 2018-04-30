@@ -45,7 +45,7 @@ Email   : v-chgowt@microsoft.com
    #   [Parameter(Position=1,mandatory=$true)]
     #  [string]$UserStorageAccountName,
      # [Parameter(Position=2,mandatory=$true)]
-      #[string]$UserKeyVaultName,
+     #[string]$UserKeyVaultName,
      # [Parameter(Position=3,mandatory=$true)]
      # [string]$UserFunctionAppName,
      # [Parameter(Position=4,mandatory=$true)]
@@ -58,7 +58,7 @@ $UserResourceGroupName = "ObfuscationTesting"
 $UserStorageAccountName = "obfuscationstorageacc"
 $UserKeyVaultName = "obskeyvault"
 $UserFunctionAppName = "ObfuscationFunctionApp"
-$UserPrincipalName = 'v-chgowt@microsoft.com'
+$UserPrincipalName = 'v-sgudur@microsoft.com'
 $UserallowedOrigins = "https://ocepoc.api.crm.dynamics.com/"
 
 
