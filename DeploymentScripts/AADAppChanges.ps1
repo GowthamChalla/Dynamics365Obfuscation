@@ -47,7 +47,7 @@ Email   : v-chgowt@microsoft.com
     # [string]$AADNativeAppID,
    #  [Parameter(Position=3,mandatory=$true)]
    #  [string]$ReplyUrl
-      )
+    #  )
 
 $UserAADAppName = "ObfuscationTesting"
 $AADWebAppID = "5e66d153-0c9e-49ff-a368-ae757f3288d0"
