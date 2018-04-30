@@ -49,9 +49,9 @@ Email   : v-chgowt@microsoft.com
    #  [string]$ReplyUrl
     #  )
 
-$UserAADAppName = "ObfuscationTesting"
-$AADWebAppID = "5e66d153-0c9e-49ff-a368-ae757f3288d0"
-$AADNativeAppID = "d1ebf7e3-6a8b-4431-bcd4-1bf1d214d7f8"
+$UserAADAppName = "TestTestTest009"
+$AADWebAppID = "80291352-0c44-4bbd-98ff-71d545b8a4c1"
+$AADNativeAppID = "126274d7-f84b-4def-ba07-5e88ee9902aa"
 $ReplyUrl = "https://ocepoc.api.crm.dynamics.com/"
 
 # Install AzureRM Module if not available
