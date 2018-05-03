@@ -61,8 +61,7 @@
       "tags": { "displayName": "storageaccount" },
       "properties": {
         "accountType": "[parameters('storageaccountType')]",
-        "cors": { "allowedOrigins": [ "*" ] }
-      }
+        "cors": { "allowedOrigins": [ "*" ] }    
       }
     }   
   ]
